@@ -1,0 +1,26 @@
+
+.calc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bnt-calc{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bnt-calc button{
+    margin: 2% 0;
+    flex-grow: 1;
+}
+
+.result-calc{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.result-calc button{
+    margin: 2% 0;
+    flex-grow: 1;
+}
